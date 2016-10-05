@@ -1,12 +1,13 @@
-body{
+body {
   font:sans-serif;
   background-color: #ccc;
 }
 
 h1 {
   font-size: 1.5rem;
+}
 
- {
+article {
   font-style: italic;
   color: #666;
 }
