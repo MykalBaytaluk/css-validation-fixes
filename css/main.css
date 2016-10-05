@@ -1,11 +1,12 @@
 body{
   font:sans-serif;
-  background-color #ccc;
+  background-color: #ccc;
 }
 
 h1 {
   font-size: 1.5rem;
 
-article {
+ {
   font-style: italic;
-  color: #666;}
+  color: #666;
+}
